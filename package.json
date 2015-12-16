@@ -1,0 +1,27 @@
+{
+  "name": "servidor Erronkaren Erruleta",
+  "version": "1.0.0",
+  "description": "node test",
+  "main": "node index.js",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Diego",
+    "JD"
+  ],
+  "engines":{
+    "node": "5.x.x"
+  },
+  "author": "Diego JD",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "servidor node"
+  }
+}
