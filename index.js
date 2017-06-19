@@ -9,7 +9,6 @@ app.get("/", function(req, res) {
 io.sockets.on("connection", function(socket) { 
 	console.log("Se haconectado un nuevo cliente al puerto 3000");
 });*/
-
 /**************/
 var app = require('express')();
 var server = require('http').createServer(app);
